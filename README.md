@@ -1,6 +1,6 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fcommerce&project-name=commerce&repo-name=commerce&demo-title=Next.js%20Commerce&demo-description=An%20all-in-one%20starter%20kit%20for%20high-performance%20e-commerce%20sites.&demo-url=https%3A%2F%2Fdemo.vercel.store&demo-image=https%3A%2F%2Fbigcommerce-demo-asset-ksvtgfvnd.vercel.app%2Fbigcommerce.png&integration-ids=oac_MuWZiE4jtmQ2ejZQaQ7ncuDT)
 
-![Screenshot (6)](https://user-images.githubusercontent.com/81157256/197006387-d099aeb2-d4ec-43bc-8b94-d1ecb917e382.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/81157256/197006848-86ff7d8c-b7e0-4466-9cb5-d4be66a09201.png)
 
 # Next.js Commerce
 
